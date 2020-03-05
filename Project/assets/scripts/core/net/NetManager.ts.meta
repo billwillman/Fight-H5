@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.13",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "8c89df8a-a010-478c-868d-16283bbb7411",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/scripts/core/net/NetManager.js"
+  }
+}
